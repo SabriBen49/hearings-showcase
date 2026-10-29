@@ -68,7 +68,7 @@ The whole project is deployed on free tiers.
 ## Architecture
 
 ```
- Angular + SCSS            Spring Boot (Java)         PostgreSQL
+ Angular                Spring Boot (Java)         PostgreSQL
  (Netlify)      ──REST──►  (Render)           ──────► (Neon)
       │
       └── Google Calendar export
