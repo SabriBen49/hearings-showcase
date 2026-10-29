@@ -53,7 +53,7 @@ The whole project is deployed on free tiers.
 
 ## Screenshots
 
-> *Client data in these screenshots has been blurred or replaced with fake data.*
+> *Client data in these screenshots has been replaced with fake data.*
 
 | Hearings list | Add / edit a hearing |
 |---|---|
