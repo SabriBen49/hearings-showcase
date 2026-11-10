@@ -2,7 +2,6 @@
 
 A full-stack web application built for a practicing lawyer and his secretary in Tunisia to **manage court hearings, calculate legal deadlines automatically, and sync their schedule to Google Calendar**.
 
- **Live app:** [hearings.netlify.app](https://hearings.netlify.app/)
 > The app is private and requires an account, so you can't browse it without logging in. See the screenshots below for a full tour.
 
 > **About the source code:** this was developed for a paying client, so the source repositories are private. This repository only contains the project presentation.
